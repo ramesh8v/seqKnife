@@ -1,4 +1,4 @@
-class loadFasta():
+class LoadFasta():
     '''
     Load fasta sequences into the memory and do processing
     '''
