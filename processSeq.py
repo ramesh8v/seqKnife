@@ -22,3 +22,4 @@ def reverseComplementarySeq(seq:str):
     :return: returns reverse complementary sequences
     '''
     return reverseSeq(complementSeq(seq))
+
