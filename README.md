@@ -1,2 +1,2 @@
 # seqKnife
-Swiss knife of DNA sequences
+A Swiss army knife of DNA sequences
